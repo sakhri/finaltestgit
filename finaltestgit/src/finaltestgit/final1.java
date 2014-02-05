@@ -7,6 +7,8 @@ public class final1 {
   public void afficher()
   {
 	  System.out.println("je suis sakhri mohamed amine");
+	  int s;
+	  s=0;
   }
 	
 }
